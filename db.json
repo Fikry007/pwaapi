@@ -1,0 +1,24 @@
+{
+"products" :[
+[{"id":1,"name":"Squirrel, european red","category":"Red"},
+{"id":2,"name":"Australian pelican","category":"Puce"},
+{"id":3,"name":"Southern screamer","category":"Fuscia"},
+{"id":4,"name":"Black and white colobus","category":"Teal"},
+{"id":5,"name":"Macaque, pig-tailed","category":"Indigo"},
+{"id":6,"name":"Giraffe","category":"Maroon"},
+{"id":7,"name":"European badger","category":"Aquamarine"},
+{"id":8,"name":"Bustard, kori","category":"Crimson"},
+{"id":9,"name":"Sockeye salmon","category":"Goldenrod"},
+{"id":10,"name":"Koala","category":"Green"},
+{"id":11,"name":"Bird, magnificent frigate","category":"Orange"},
+{"id":12,"name":"Lizard, collared","category":"Violet"},
+{"id":13,"name":"African darter","category":"Teal"},
+{"id":14,"name":"Violet-eared waxbill","category":"Crimson"},
+{"id":15,"name":"Macaque, japanese","category":"Indigo"},
+{"id":16,"name":"Mountain goat","category":"Pink"},
+{"id":17,"name":"Chacma baboon","category":"Turquoise"},
+{"id":18,"name":"Buffalo, american","category":"Crimson"},
+{"id":19,"name":"Magpie, australian","category":"Purple"},
+{"id":20,"name":"Nighthawk, common","category":"Indigo"}]
+]
+}
